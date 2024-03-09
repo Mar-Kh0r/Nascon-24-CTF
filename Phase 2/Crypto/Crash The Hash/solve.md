@@ -70,3 +70,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+````
+
+## Obtaining Flag
+
+Now finally we have a wordlist and a hash. SO we can use hashcat or johntheripper to get our final value
+**john --format=bcrypt --wordlist=wordlist.txt hash.txt**
+OR
+**hashcat -m 3200 hash wordlist.txt**
+
+It will return the flag after cracking hash sucessfuly. As this was only a 4 rounds bycrypt hash only took a few minutes to crack.
+
+**CSL{*}**
