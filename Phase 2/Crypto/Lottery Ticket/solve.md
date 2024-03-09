@@ -10,7 +10,7 @@ There are slot machines in a casino featuring 4 tags of 32 bits. We've successfu
 
 ---
 
-## Challenge Statement
+## Challenge 
 
 Embark on a thrilling cryptographic quest at our state-of-the-art casino! A mesmerizing slot machine awaits, adorned with enigmatic 32-bit binary tags that hold the key to a $25,000 lottery triumph. We've unraveled the elusive encryption algorithm that guards the path to victory. Your mission, should you choose to accept it, is to decipher the code and uncover the magical input that unlocks the grand prize. Are you ready to unravel the secrets and claim your fortune? The stakes are high, the challenge is real, and the jackpot awaits the master codebreaker!
 - **Title**: Lottery Ticket
