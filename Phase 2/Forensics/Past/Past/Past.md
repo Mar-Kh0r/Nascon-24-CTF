@@ -2,10 +2,9 @@ Downloading the challenge we are provided an 7z file.
 <img src="./1.png"
 style="width:6.26792in;height:3.73958in" />
 
-
+Inside we are provided a Mozilla Firefox files
 <img src="./2.png"
-style="width:5.53472in;height:4.65972in" />Inside we are provided a
-Mozilla Firefox files
+style="width:5.53472in;height:4.65972in" />
 
 <img src="./3.png"
 style="width:5.20833in;height:4.30556in" />
