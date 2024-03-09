@@ -1,7 +1,7 @@
+Downloading the challenge we are provided an 7z file.
 <img src="./1.png"
 style="width:6.26792in;height:3.73958in" />
 
-Downloading the challenge we are provided an 7z file.
 
 <img src="./2.png"
 style="width:5.53472in;height:4.65972in" />Inside we are provided a
