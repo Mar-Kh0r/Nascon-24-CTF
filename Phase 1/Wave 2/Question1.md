@@ -73,4 +73,5 @@
 > How many times does REG.EXE executed? (Format: CSL{times})
 >
 > Answer: CSL{12}
+>  
 ![9](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/aa482834-0b4b-4efa-a929-bee7100dfc7e)
