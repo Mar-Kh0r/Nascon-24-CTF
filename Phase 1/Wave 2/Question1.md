@@ -62,12 +62,12 @@
 > Answer: CSL{E8B8DD29}
 > Method: 
 ![7](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/c11d244f-7761-45c1-8171-0c63c4f8993e)
-![8](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/d5676e8d-18f4-4a2e-853b-85d24ed9295a)
 
 ## Question 7:
 > When is CMD.EXE last run time? (Format: CSL{DD/MM/YYYY_HH:MM:SS})
 >
 > Answer: CSL{28/02/2024_12:48:58}
+![8](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/d5676e8d-18f4-4a2e-853b-85d24ed9295a)
 
 ## Question 8:
 > How many times does REG.EXE executed? (Format: CSL{times})
