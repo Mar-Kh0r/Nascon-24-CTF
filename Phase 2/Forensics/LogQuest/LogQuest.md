@@ -11,6 +11,7 @@ Questions:
 1. How many overall users present in the system include deleted users? 
 
 Solution:
+
 We were provided with a security event log file. There are total of 3504 events. 
 
 ![](001.jpeg)
