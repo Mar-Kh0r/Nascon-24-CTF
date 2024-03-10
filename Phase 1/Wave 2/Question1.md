@@ -32,8 +32,8 @@
 >
 > Method: Open .mem ﬁle in memory dump analysis tool like volatility. Start by listing processes and go to windows.info.info and look for machinetype ﬁeld:
 >
-![1](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/29ba564c-c952-4b16-9243-ee5dfbd97c36)
-![2](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/c3e2f44c-e363-4cff-afbd-fac77185dc9a)
+> ![1](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/29ba564c-c952-4b16-9243-ee5dfbd97c36)
+> ![2](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/c3e2f44c-e363-4cff-afbd-fac77185dc9a)
 
 ## Question 4:
 > What is the o set for the user's ﬁle, where "UsmanNaeem" is the username? (Format: CSL{o set})
@@ -42,8 +42,8 @@
 >
 > File: Memdump.mem
 >
-![3](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/1f353062-1aaa-4583-b783-b56e79aa0441)
-![4](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/07a3d94d-2db1-46de-ab2a-e2b632a2900c)
+> ![3](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/1f353062-1aaa-4583-b783-b56e79aa0441)
+> ![4](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/07a3d94d-2db1-46de-ab2a-e2b632a2900c)
 
 ## Question 5:
 > What is the operating system and the number of processors of the computer where FTK Imager.exe was executed? (Format: CSL{OS_processorCount})
@@ -53,25 +53,28 @@
 > File: Memdump.mem
 >
 > Command Info:
-![5](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/cb04f8b8-c8e0-4f7e-afb3-36c4c8c2a32c)
-![6](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/78ff1896-9d1c-4a38-ac4a-3d550dbf032c)
+> 
+> ![5](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/cb04f8b8-c8e0-4f7e-afb3-36c4c8c2a32c)
+> ![6](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/78ff1896-9d1c-4a38-ac4a-3d550dbf032c)
 
 ## Question 6:
 > what is ﬁle hash of WMIPRVSE.EXE? (Format: CSL{hash})
 >
 > Answer: CSL{E8B8DD29}
-> Method: 
-![7](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/c11d244f-7761-45c1-8171-0c63c4f8993e)
+> Method:
+> 
+> ![7](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/c11d244f-7761-45c1-8171-0c63c4f8993e)
 
 ## Question 7:
 > When is CMD.EXE last run time? (Format: CSL{DD/MM/YYYY_HH:MM:SS})
 >
 > Answer: CSL{28/02/2024_12:48:58}
-![8](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/d5676e8d-18f4-4a2e-853b-85d24ed9295a)
+> 
+> ![8](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/d5676e8d-18f4-4a2e-853b-85d24ed9295a)
 
 ## Question 8:
 > How many times does REG.EXE executed? (Format: CSL{times})
 >
 > Answer: CSL{12}
 >  
-![9](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/aa482834-0b4b-4efa-a929-bee7100dfc7e)
+> ![9](https://github.com/TrojanNinja/Nascon-24-CTF/assets/100431785/aa482834-0b4b-4efa-a929-bee7100dfc7e)
