@@ -10,7 +10,7 @@ Questions:
 1. What was the display Name of Sheera Account? 
 1. How many overall users present in the system include deleted users? 
 
-Solution: 
+Solution:
 We were provided with a security event log file. There are total of 3504 events. 
 
 ![](001.jpeg)
