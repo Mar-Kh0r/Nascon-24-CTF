@@ -1,4 +1,4 @@
-#Wave 1
+#Wave 1#
 >
 > Question 1: Which Windows feature's optimization failed according to
 > the log? Answer: CSL{Microsoft-Windows-Defrag}
