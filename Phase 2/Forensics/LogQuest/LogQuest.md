@@ -1,8 +1,9 @@
 ﻿Challenge Name: LogQuest 
 
 Description: 
-Unlock the truth. Questions: 
+Unlock the truth. 
 
+Questions: 
 1. Name the accounts that were created? 
 1. There was an attempt was made to reset an account's password for Sheera. What was the time? (Format: 00:00:00am) 
 1. Name the two accounts that were deleted? 
@@ -10,7 +11,6 @@ Unlock the truth. Questions:
 1. How many overall users present in the system include deleted users? 
 
 Solution: 
-
 We were provided with a security event log file. There are total of 3504 events. 
 
 ![](001.jpeg)
