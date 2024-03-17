@@ -14,7 +14,9 @@ Questions:
 1. Provide its Overall Base Score according to NIST? 
 1. What is NVD Published Date? 
 
-**Flag Format------> CSL{0.0\_MM/DD/YYYY\_0.0\_MM/DD/YYYY} Solutions:** 
+**Flag Format------> CSL{0.0\_MM/DD/YYYY\_0.0\_MM/DD/YYYY}** 
+
+**Solutions:** 
 
 We have been given two CVEs in which we must find its overall base score and its NVD published date. 
 
