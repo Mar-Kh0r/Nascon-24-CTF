@@ -7,7 +7,6 @@
 1. In May 2021, the FBI declared that what ransomware group was responsible for the cyberattacks that forced the shutdown of the Colonial Pipeline petroleum networks?
 
 2. What is the name of the computer worm, which was first uncovered in 2010, that was used in a cyberattack to ruin 
-
 nearly 20% of Iran's nuclear centrifuges, setting their program back years? 
 
 3. What “F” cybersecurity company, which offers firewalls and anti-virus protection among other services, was founded in 2000 in Sunnyvale, CA by Ken Xie? Their logo is the letter “O” formed by red blocks. 
