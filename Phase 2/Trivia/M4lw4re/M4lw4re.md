@@ -26,13 +26,17 @@ Go to[ VirusTotal ](https://virustotal.com/)website. Search for this malware has
 
 ![](001.jpeg)
 
-It's found out its all-related data. In the front page it shows its name and its threat category: Name: Password-Stealer\_(\_003bbfec1\_) 
+It's found out its all-related data. In the front page it shows its name and its threat category: 
+
+Name: Password-Stealer\_(\_003bbfec1\_) 
 
 Threat Category: Trojan 
 
 ![](002.jpeg)
 
-For the creation time, go under the details tab. It shows the creation time of malware: Creation time: 2016-11-01 10:19:24 UTC 
+For the creation time, go under the details tab. It shows the creation time of malware: 
+
+Creation time: 2016-11-01 10:19:24 UTC 
 
 ![](003.jpeg)
 
@@ -46,13 +50,17 @@ Again, go to the[ VirusTotal ](https://virustotal.com/)website and search for ma
 
 ![](004.jpeg)
 
-On the front page, it shows its name and its threat category: Name: boost\_speed\_stub\_installer.exe
+On the front page, it shows its name and its threat category: 
+
+Name: boost\_speed\_stub\_installer.exe
 
 Threat Category: Trojan 
 
 ![](005.jpeg)
 
-On the detail tab it shows its creation time: Creation time: 2016-07-20 12:44:49 UTC 
+On the detail tab it shows its creation time: 
+
+Creation time: 2016-07-20 12:44:49 UTC 
 
 ![](006.jpeg)
 
