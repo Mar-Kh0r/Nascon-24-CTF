@@ -30,7 +30,9 @@ Go to Bing and search for this CVE. We found first website of NVD for this CVE:
 
 ![](001.jpeg)
 
-On the front of this website, we found out its base score and its published date: Base Score: 9.8 
+On the front of this website, we found out its base score and its published date: 
+
+Base Score: 9.8 
 
 Published Date: 02/10/2023 
 
@@ -44,7 +46,9 @@ Again, go to Bing and search for this CVE. You find first website of NVD:
 
 ![](003.jpeg)
 
-On the front of website, we found its base score and its published date: Base Score: 7.5 
+On the front of website, we found its base score and its published date: 
+
+Base Score: 7.5 
 
 Published Date: 02/26/2021 
 
