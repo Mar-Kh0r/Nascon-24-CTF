@@ -16,7 +16,7 @@ Questions:
 
 **Flag Format------> CSL{0.0\_MM/DD/YYYY\_0.0\_MM/DD/YYYY}** 
 
-**Solutions:** 
+**Solution:** 
 
 We have been given two CVEs in which we must find its overall base score and its NVD published date. 
 
